@@ -70,6 +70,11 @@ function Header() {
               <span>Contact</span>
             </NavLink>
           </li>
+          <li>
+            <NavLink to="/movies">
+              <span>Movies Project</span>
+            </NavLink>
+            </li>
         </ul>
         <p className="mi-header-copyright">
           &copy; {new Date().getFullYear()}{" "}

@@ -34,10 +34,10 @@ function BlogDetails(props) {
   return (
     <Layout>
       <Helmet>
-        <title>Blog Details - Chester React Personal Portfolio Template</title>
+        <title>Blog Details - Dominykas Skaudzius</title>
         <meta
           name="description"
-          content="Chester React Personal Portfolio Template Blog Details Page"
+          content="Dominykas Skaudzius Blog"
         />
       </Helmet>
       <Suspense fallback={<Spinner />}>

@@ -495,9 +495,9 @@ const database = {
     }
   ],
   contactInfo: {
-    phoneNumbers: ['+012-3456-7891', '+012-3456-7892'],
-    emailAddress: ['admin.sitename@example.com', 'info.sitename@example.com'],
-    address: "121 King Street, Melbourne, Victoria 3000, Australia"
+    phoneNumbers: ['+37062815945', '+37067568815'],
+    emailAddress: ['dominykas@example.com', 'dominykas@example.com'],
+    address: "Laisves al. 1, Kaunas, Lithuania"
   }
 }
 
