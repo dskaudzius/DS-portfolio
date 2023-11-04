@@ -20,7 +20,7 @@ const database = {
       dribbble: '',
       github: 'https://github.com'
     },
-    brandImage: '/images/brand-image.jpg',
+    brandImage: '/images/brand-image.webp',
     aboutImage: '/images/about-image.jpg',
     aboutImageLg: '/images/about-image-lg.jpg',
     cvfile: '/files/empty.pdf'
@@ -133,7 +133,7 @@ const database = {
       subtitle: "A beautiful t-shirt mockup.",
       imageUrl: "/images/portfolio-image-1.jpg",
       largeImageUrl: ["/images/portfolio-image-1-lg.jpg"],
-      url: 'https://dribbble.com'
+      url: 'https://pinterest.com'
     },
     {
       id: 2,
@@ -144,7 +144,7 @@ const database = {
         "/images/portfolio-image-4-lg.jpg",
         "/images/portfolio-image-4-lg2.jpg"
       ],
-      url: 'https://facebook.com'
+      url: 'https://pinterest.com'
     },
     {
       id: 3,
@@ -159,21 +159,23 @@ const database = {
       subtitle: "A pen holder with beautiful design.",
       imageUrl: "/images/portfolio-image-3.jpg",
       largeImageUrl: ["/images/portfolio-image-3-lg.jpg"],
-      url: '#'
+      url: 'https://pinterest.com'
     },
     {
       id: 5,
       title: "Mug",
       subtitle: "Mug with awesome style",
       imageUrl: "/images/portfolio-image-5.jpg",
-      largeImageUrl: ["/images/portfolio-image-5-lg.jpg"]
+      largeImageUrl: ["/images/portfolio-image-5-lg.jpg"],
+      url: 'https://pinterest.com'
     },
     {
       id: 6,
       title: "Pendrive",
       subtitle: "Free pendrive mockup design.",
       imageUrl: "/images/portfolio-image-6.jpg",
-      largeImageUrl: ["/images/portfolio-image-6-lg.jpg"]
+      largeImageUrl: ["/images/portfolio-image-6-lg.jpg"],
+      url: 'https://pinterest.com'
     },
     {
       id: 7,
@@ -181,21 +183,23 @@ const database = {
       subtitle: "Pendrive with great design & flexible.",
       imageUrl: "/images/portfolio-image-7.jpg",
       largeImageUrl: ["/images/portfolio-image-7-lg.jpg"],
-      url: 'https://twitter.com'
+      url: 'https://pinterest.com'
     },
     {
       id: 8,
       title: "Sticker",
       subtitle: "Clip sticker mockup design.",
       imageUrl: "/images/portfolio-image-8.jpg",
-      largeImageUrl: ["/images/portfolio-image-8-lg.jpg"]
+      largeImageUrl: ["/images/portfolio-image-8-lg.jpg"],
+      url: 'https://pinterest.com'
     },
     {
       id: 9,
       title: "Packet",
       subtitle: "Beautiful packet & product design.",
       imageUrl: "/images/portfolio-image-9.jpg",
-      largeImageUrl: ["/images/portfolio-image-9-lg.jpg"]
+      largeImageUrl: ["/images/portfolio-image-9-lg.jpg"],
+      url: 'https://pinterest.com'
     },
     {
       id: 10,
@@ -203,7 +207,7 @@ const database = {
       subtitle: "A pen holder with beautiful design.",
       imageUrl: "/images/portfolio-image-3.jpg",
       largeImageUrl: ["/images/portfolio-image-3-lg.jpg"],
-      url: '#'
+      url: 'https://pinterest.com'
     },
     {
       id: 11,
@@ -214,7 +218,7 @@ const database = {
         "/images/portfolio-image-4-lg.jpg",
         "/images/portfolio-image-4-lg2.jpg"
       ],
-      url: 'https://facebook.com'
+      url: 'https://pinterest.com'
     },
     {
       id: 12,
@@ -229,21 +233,23 @@ const database = {
       subtitle: "A beautiful t-shirt mockup.",
       imageUrl: "/images/portfolio-image-1.jpg",
       largeImageUrl: ["/images/portfolio-image-1-lg.jpg"],
-      url: 'https://dribbble.com'
+      url: 'https://pinterest.com'
     },
     {
       id: 14,
       title: "Mug",
       subtitle: "Mug with awesome style",
       imageUrl: "/images/portfolio-image-5.jpg",
-      largeImageUrl: ["/images/portfolio-image-5-lg.jpg"]
+      largeImageUrl: ["/images/portfolio-image-5-lg.jpg"],
+      url: 'https://pinterest.com'
     },
     {
       id: 15,
       title: "Pendrive",
       subtitle: "Free pendrive mockup design.",
       imageUrl: "/images/portfolio-image-6.jpg",
-      largeImageUrl: ["/images/portfolio-image-6-lg.jpg"]
+      largeImageUrl: ["/images/portfolio-image-6-lg.jpg"],
+      url: 'https://pinterest.com'
     },
     {
       id: 16,
@@ -251,21 +257,23 @@ const database = {
       subtitle: "Pendrive with great design & flexible.",
       imageUrl: "/images/portfolio-image-7.jpg",
       largeImageUrl: ["/images/portfolio-image-7-lg.jpg"],
-      url: 'https://twitter.com'
+      url: 'https://pinterest.com'
     },
     {
       id: 17,
       title: "Sticker",
       subtitle: "Clip sticker mockup design.",
       imageUrl: "/images/portfolio-image-8.jpg",
-      largeImageUrl: ["/images/portfolio-image-8-lg.jpg"]
+      largeImageUrl: ["/images/portfolio-image-8-lg.jpg"],
+      url: 'https://pinterest.com'
     },
     {
       id: 18,
       title: "Packet",
       subtitle: "Beautiful packet & product design.",
       imageUrl: "/images/portfolio-image-9.jpg",
-      largeImageUrl: ["/images/portfolio-image-9-lg.jpg"]
+      largeImageUrl: ["/images/portfolio-image-9-lg.jpg"],
+      url: 'https://pinterest.com'
     },
     {
       id: 19,
@@ -273,7 +281,7 @@ const database = {
       subtitle: "A beautiful t-shirt mockup.",
       imageUrl: "/images/portfolio-image-1.jpg",
       largeImageUrl: ["/images/portfolio-image-1-lg.jpg"],
-      url: 'https://dribbble.com'
+      url: 'https://pinterest.com'
     },
     {
       id: 20,
@@ -284,7 +292,7 @@ const database = {
         "/images/portfolio-image-4-lg.jpg",
         "/images/portfolio-image-4-lg2.jpg"
       ],
-      url: 'https://facebook.com'
+      url: 'https://pinterest.com'
     },
     {
       id: 21,
@@ -299,60 +307,61 @@ const database = {
       subtitle: "A pen holder with beautiful design.",
       imageUrl: "/images/portfolio-image-3.jpg",
       largeImageUrl: ["/images/portfolio-image-3-lg.jpg"],
-      url: '#'
+      url: 'https://pinterest.com'
     },
     {
       id: 23,
       title: "Mug",
       subtitle: "Mug with awesome style",
       imageUrl: "/images/portfolio-image-5.jpg",
-      largeImageUrl: ["/images/portfolio-image-5-lg.jpg"]
+      largeImageUrl: ["/images/portfolio-image-5-lg.jpg"],
+      url: 'https://pinterest.com'
     }
   ],
   experience: {
     workingExperience: [
       {
         id: 1,
-        year: "2018 - Present",
-        position: "Frontend Web Developer",
-        company: "Abc Company",
+        year: "2023-Present",
+        position: "Front-End Developer",
+        company: "CodeAcademy",
         details: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro."
       },
       {
         id: 2,
-        year: "2016 - 2018",
-        position: "Frontend Web Developer",
-        company: "CBA Company",
+        year: "2023-2023",
+        position: "Front-End Developer",
+        company: "CodeAcademy",
         details: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro."
       },
       {
         id: 3,
-        year: "2014 - 1016",
-        position: "UI/UX Designer",
-        company: "Example Company",
+        year: "2023-2023",
+        position: "Front-End Developer",
+        company: "CodeAcademy",
         details: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro."
       }
     ],
     educationExperience: [
       {
         id: 1,
-        year: "2018 - 2019",
-        graduation: "Master of Science",
-        university: "Abc University",
+        year: "2022-2022",
+        graduation: "University",
+        university: "ABC University",
         details: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro."
       },
       {
         id: 2,
-        year: "2016 - 2018",
-        graduation: "Bachelor of Science",
-        university: "Abc University",
+        year: "2022-2022",
+        graduation: "University",
+        university: "ABC University",
         details: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro."
       },
       {
         id: 3,
-        year: "2015 - 2016",
-        graduation: "Higher Schoold Graduation",
-        university: "Abc College",
+        year: "2022-2022",
+        graduation: "High School Graduation",
+        university: "ABC College",
         details: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro."
       }
     ]
@@ -363,36 +372,36 @@ const database = {
       title: 'Markdown & Html supported blog.',
       featuredImage: '/images/blog-image-1.jpg',
       filesource: '../../blog/markdown-html-supported-blog.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      createDay: "08",
+      createMonth: 'October',
+      createYear: "2023"
     },
     {
       id: 2,
       title: 'Installing NodeJS on your device.',
       featuredImage: '/images/blog-image-2.jpg',
       filesource: '../../blog/installing-nodejs-on-your-device.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      createDay: "12",
+      createMonth: 'October',
+      createYear: "2023"
     },
     {
       id: 3,
       title: 'UI/UX design starter with Adobe XD.',
       featuredImage: '/images/blog-image-3.jpg',
       filesource: '../../blog/uiux-design-starter-with-adobe-xd.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      createDay: "18",
+      createMonth: 'October',
+      createYear: "2023"
     },
     {
       id: 4,
       title: 'Boost your post for increasing sales.',
       featuredImage: '/images/blog-image-4.jpg',
       filesource: '../../blog/boost-your-post-for-increasing-sales.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      createDay: "15",
+      createMonth: 'October',
+      createYear: "2023"
     },
     {
       id: 5,
@@ -400,103 +409,103 @@ const database = {
       featuredImage: '/images/blog-image-5.jpg',
       filesource: '../../blog/difference-between-gatsbyjs-and-nextjs.md',
       createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      createMonth: 'October',
+      createYear: "2023"
     },
     {
       id: 6,
       title: 'How to choose javascript framework for project.',
       featuredImage: '/images/blog-image-6.jpg',
       filesource: '../../blog/how-to-choose-javascript-framework-for-project.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      createDay: "10",
+      createMonth: 'October',
+      createYear: "2023"
     },
     {
       id: 7,
       title: 'Web automation with python language.',
       featuredImage: '/images/blog-image-7.jpg',
       filesource: '../../blog/web-automation-with-python-language.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      createDay: "24",
+      createMonth: 'October',
+      createYear: "2023"
     },
     {
       id: 8,
       title: 'Time to use latest technology for creating a website.',
       featuredImage: '/images/blog-image-8.jpg',
       filesource: '../../blog/time-to-use-latest-technology-for-creating-a-website.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      createDay: "28",
+      createMonth: 'October',
+      createYear: "2023"
     },
     {
       id: 9,
       title: 'Think out of the box.',
       featuredImage: '/images/blog-image-9.jpg',
       filesource: '../../blog/think-out-of-the-box.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      createDay: "30",
+      createMonth: 'October',
+      createYear: "2023"
     },
     {
       id: 10,
       title: 'Trending designs in 2020.',
       featuredImage: '/images/blog-image-1.jpg',
       filesource: '../../blog/trending-designs-in-2020.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      createDay: "19",
+      createMonth: 'October',
+      createYear: "2023"
     },
     {
       id: 11,
       title: 'How to get 10k instagram followers?',
       featuredImage: '/images/blog-image-2.jpg',
       filesource: '../../blog/how-to-get-10k-instagram-followers.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      createDay: "14",
+      createMonth: 'October',
+      createYear: "2023"
     },
     {
       id: 12,
       title: 'What NodeJS can do?',
       featuredImage: '/images/blog-image-3.jpg',
       filesource: '../../blog/what-nodejs-can-do.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      createDay: "22",
+      createMonth: 'October',
+      createYear: "2023"
     },
     {
       id: 13,
       title: 'Futures of javascript.',
       featuredImage: '/images/blog-image-4.jpg',
       filesource: '../../blog/future-of-javascript.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      createDay: "23",
+      createMonth: 'October',
+      createYear: "2023"
     },
     {
       id: 14,
-      title: 'Popular javascript library in 2020.',
+      title: 'Popular javascript library in 2023.',
       featuredImage: '/images/blog-image-5.jpg',
-      filesource: '../../blog/popular-javascript-library-in-2020.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      filesource: '../../blog/popular-javascript-library-in-2023.md',
+      createDay: "24",
+      createMonth: 'October',
+      createYear: "2023"
     },
     {
       id: 15,
       title: 'Promrammers must read books.',
       featuredImage: '/images/blog-image-6.jpg',
       filesource: '../../blog/programmers-must-read-books.md',
-      createDay: "20",
-      createMonth: 'February',
-      createYear: "2020"
+      createDay: "08",
+      createMonth: 'October',
+      createYear: "2023"
     }
   ],
   contactInfo: {
     phoneNumbers: ['+37062815945', '+37067568815'],
-    emailAddress: ['dominykas@example.com', 'dominykas@example.com'],
+    emailAddress: ['dominykas@example.com', 'dominykass@example.com'],
     address: "Laisves al. 1, Kaunas, Lithuania"
   }
 }
