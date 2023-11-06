@@ -73,7 +73,7 @@ function About() {
                 <div className="mi-about-image">
                   <ProgressiveImage
                     src={information.aboutImage}
-                    placeholder="/images/about-image-placeholder.png"
+                    placeholder="/public/images/about-image-lg.jpg"
                   >
                     {(src) => (
                       <img
