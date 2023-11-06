@@ -71,9 +71,9 @@ function Header() {
             </NavLink>
           </li>
           <li>
-            <NavLink to="/movies">
-              <span>Movies Project</span>
-            </NavLink>
+            <a href="https://dskaudzius.github.io/DS-movie-data-project/">
+              <span>Movies Data Project</span>
+            </a>
             </li>
         </ul>
         <p className="mi-header-copyright">
