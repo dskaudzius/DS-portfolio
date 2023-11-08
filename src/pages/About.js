@@ -61,7 +61,7 @@ function About() {
         <title>About - Dominykas Skaudzius</title>
         <meta
           name="description"
-          content="Dominykas Skaudzius About Page"
+          content="Dominykas Skaudzius About-Page"
         />
       </Helmet>
       <Suspense fallback={<Spinner />}>
