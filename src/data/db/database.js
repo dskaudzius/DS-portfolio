@@ -63,32 +63,32 @@ const database = {
       id: 3,
       content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
       author: {
-        name: 'Irving Feeney',
-        designation: 'Fiverr Client'
+        name: 'Vardas Pavarde',
+        designation: 'Client'
       }
     },
       {
         id: 4,
         content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
         author: {
-          name: 'Irving Feeney',
-          designation: 'Fiverr Client'
+          name: 'Vardas Pavarde',
+          designation: 'Client'
         }
       },
       {
         id: 5,
         content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
         author: {
-          name: 'Irving Feeney',
-          designation: 'Fiverr Client'
+          name: 'Vardas Pavarde',
+          designation: 'Client'
         }
       },
         {
           id: 6,
           content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
           author: {
-            name: 'Irving Feeney',
-            designation: 'Fiverr Client'
+            name: 'Vardas Pavarde',
+            designation: 'Client'
           }
         },
           {
